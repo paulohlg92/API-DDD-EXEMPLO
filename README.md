@@ -1,1 +1,1 @@
-# API-DDD-EXEMPLO
+Projeto de Exemplo para estudo de aplicação usando DDD, conforme aulas do professor Daccas da Avanade.
